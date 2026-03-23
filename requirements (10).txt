@@ -1,12 +1,1 @@
-streamlit
-pandas
-numpy
-scikit-learn
-scipy
-plotly
-anthropic
-matplotlib
-seaborn
-requests
-networkx
-shap
+
